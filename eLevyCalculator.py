@@ -16,4 +16,3 @@ print('\n')
 print(f'The E-Levy charge on GH₵{amount:.2f} is GH₵{eLevy:.2f}')
 print(f'the total charge on your transaction is GH₵{totalCharge:.2f}, thank you.')
 
-GitHubForStudentsIsAwesome&Free$In2020
